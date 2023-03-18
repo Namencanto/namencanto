@@ -23,7 +23,7 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,html,css,scss,tailwind,typescript,react,nextjs,nodejs,expressjs,mysql,mongodb,git,github,jest)
 
 ## Future skill goals 🎯
-![My Skills](https://skillicons.dev/icons?i=graphql,nestjs,docker,postgresql,rust)
+![My Skills](https://skillicons.dev/icons?i=graphql,docker,nestjs,postgresql)
 
 
 <!--
