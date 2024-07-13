@@ -14,10 +14,10 @@
 - 📫 You can find more about me and my projects on my personal [website](https://mordon-portfolio.vercel.app) or connect with me on [LinkedIn](https://www.linkedin.com/in/mateusz-ordon)
 
 ## Experience with technologies 👨‍💻
-![My Skills](https://skillicons.dev/icons?i=javascript,html,css,scss,tailwind,typescript,react,nextjs,vue,nuxtjs,nodejs,expressjs,mysql,postgresql,mongodb,git,github,docker,jest)
+![My Skills](https://skillicons.dev/icons?i=javascript,html,css,scss,tailwind,typescript,react,nextjs,vue,nuxtjs,nodejs,expressjs,mysql,postgresql,mongodb,git,github,docker,jest,prisma,nestjs)
 
 ## Future skill goals 🎯
-![My Skills](https://skillicons.dev/icons?i=graphql,nestjs,threejs)
+![My Skills](https://skillicons.dev/icons?i=graphql,threejs)
 
 
 <!--
